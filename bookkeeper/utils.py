@@ -1,5 +1,6 @@
 """
 Вспомогательные функции
+
 """
 
 from typing import Iterable, Iterator
